@@ -1,7 +1,7 @@
 <h1>Easy Shopping</h1>
 <br>
 <br>
-<h2>Primeiro projeto que aprendo no <a href="https://rodlfomori.com.br/devclub">DevClub</a> utilizando:
+<h2>Primeiro projeto que aprendo no <a href="http://devclub.com.br">DevClub</a> utilizando:
   <br>
   <br>
   <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white alt="HTML5-LOGO">
